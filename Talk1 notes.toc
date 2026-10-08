@@ -1,0 +1,8 @@
+\contentsline {section}{\tocsection {}{1}{The Space of Embeddings}}{1}{}%
+\contentsline {subsection}{\tocsubsection {}{1.1}{Motivation}}{1}{}%
+\contentsline {subsection}{\tocsubsection {}{1.2}{Examples}}{3}{}%
+\contentsline {section}{\tocsection {}{2}{Embedding Calculus}}{4}{}%
+\contentsline {subsection}{\tocsubsection {}{2.1}{Motivation: A Pointilistic Viewpoint}}{4}{}%
+\contentsline {subsection}{\tocsubsection {}{2.2}{The Category $\Mfd _d$}}{4}{}%
+\contentsline {subsection}{\tocsubsection {}{2.3}{Embedding Calculus Tower: without boundary}}{4}{}%
+\contentsline {subsection}{\tocsubsection {}{2.4}{Alternative formulation: with boundary}}{6}{}%
